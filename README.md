@@ -42,5 +42,5 @@ It’s a lightweight practice for learning **API workflows in Python**.
 1. **Clone or download the project**:
 
 ```bash
-git clone <>
+git clone <https://github.com/mahambilalandahaan/Mini_API__Call_Demo.git>
 cd Weather_Report_API_Model  # or folder name
